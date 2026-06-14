@@ -32,3 +32,12 @@ img{
 	height:300px;
 	width:300px; 
 }
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
